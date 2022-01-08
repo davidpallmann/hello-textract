@@ -4,7 +4,7 @@ This is the code project for the [Hello, Textract!](https://davidpallmann.hashno
 
 This episode: Amazon Textract. In this [Hello, Cloud](https://davidpallmann.hashnode.dev/hello-cloud) blog series, we're covering the basics of AWS cloud services for newcomers who are .NET developers. If you love C# but are new to AWS, or to this particular service, this should give you a jumpstart.
 
-In this post we'll introduce Amazon Textract and use it in a "Hello, Cloud" .NET program to extract text from documents and images. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. If you've never worked with serverless, prepare to have your mind blown.
+In this post we'll introduce Amazon Textract and use it in a "Hello, Cloud" .NET program to extract text from documents and images. We'll do this step-by-step, making no assumptions other than familiarity with C# and Visual Studio. 
 
 ## Our Hello, Textract Project
 
